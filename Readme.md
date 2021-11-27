@@ -21,6 +21,7 @@
 <br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balkishan-pal&show_icons=true&locale=en&layout=compact" alt="balkishan-pal" /></p>
 <br></br>
+<br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balkishan-pal&show_icons=true&locale=en" alt="balkishan-pal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balkishan-pal&" alt="balkishan-pal" /></p>
