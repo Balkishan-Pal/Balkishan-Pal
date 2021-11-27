@@ -1,29 +1,68 @@
-<h1 align="center">Hi 👋, I'm Balkishan</h1>
-<h3 align="center"></h3>
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Balkishan</h1>
+<h3 align="center">I'm a Full-Stack Web Developer.</h3>
 
+<br/>
 
-- 📫 How to reach me **balkishanpal1@gmail.com**
+## 🙋‍♂️ About Me
 
-<h3 align="left">Connect with me:</h3>
+<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-<p align="left">
-<a href="https://twitter.com/balkishanpal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balkishanpal5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/balkishanpal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/balkishanpal/" height="30" width="40" /></a>
-<a href="https://instagram.com/baaliie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baaliie" height="30" width="40" /></a>
-<a href="https://hashnode.com/@balkishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@balkishan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/balkishanpal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balkishanpal1" height="30" width="40" /></a>
+- 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Balkishan-Pal)**
+
+- 📫 How to reach me **balkishanpal3@gmail.com**
+
+- ⚡ Fun fact **I play football and Watch movies.**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:20px"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:20px"/> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:20px"/>
+    <img src="https://img.icons8.com/color/48/000000/css.png" style="margin-right:50px"/> 
+     <img style="padding-right:8px; padding-left:8px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right:20px, margin-left:20px"/>
+    <img style="margin-top:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" style="margin-right:20px"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin-right:20px"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" style="margin-right:20px"/>
+    <img src="https://miro.medium.com/max/640/1*SL4sWHdjGR3vo0x5ta3xfw.jpeg" width="50" style="padding:8px" style="margin-right:20px"/>
+    <img src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC.jpg" width="50" height="40" style="margin-right:20px"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<br></br>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-<br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balkishan-pal&show_icons=true&locale=en&layout=compact" alt="balkishan-pal" /></p>
-<br></br>
-<br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balkishan-pal&show_icons=true&locale=en" alt="balkishan-pal" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balkishan-pal&" alt="balkishan-pal" /></p>
+<p align="center">
+    <a href="https://github.com/balkishan-pal/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="balkishan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=balkishan-pal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/balkishan-pal/github-readme-stats"><img alt="balkishan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=balkishan-pal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/balkishan-pal/github-readme-activity-graph"><img alt="balkishan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=balkishan-pal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/balkishanpal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://twitter.com/G_Yashvant/"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a> -->
+
+</p>
 
 
